@@ -10,4 +10,4 @@ function squareNumber(number){
     
     return square;
 }
-console.log(squareNumber())
+console.log(squareNumber());
